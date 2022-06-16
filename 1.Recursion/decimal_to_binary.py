@@ -3,7 +3,7 @@
 # Convert a number from binary to decimal using recursion
 
 def decimalToBinary(n):
-    assert int(n) == n, "n must be a non-negative integer"
+    assert int(n) == -n, "n must be a non-negative integer"
     if n == 0:
         return 0
     else:
