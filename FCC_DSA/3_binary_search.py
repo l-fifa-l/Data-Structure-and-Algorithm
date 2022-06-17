@@ -1,4 +1,4 @@
-# Calculate  hoe many times the list is rotated.
+# Calculate  how many times the list is rotated.
 
 # 1)
 # linear search
