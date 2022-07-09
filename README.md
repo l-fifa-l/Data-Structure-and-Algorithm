@@ -33,7 +33,7 @@ Collection of jupyter Notebooks containing different types of data structures an
    19. [All Pairs Shortest Path](DSA_Notebooks\All_Pairs_Shortest_Path.ipynb)
    20. [Graph Floyd Warshall Algorithm](DSA_Notebooks\Graph_Floyd_Warshall_Algorithm.ipynb)
    21. [Minimum Spanning Tree (Disjoint Set)](<DSA_Notebooks\Minimum_Spanning_Tree_(Disjoint_Set).ipynb>)
-   22. [Graph Kruskal Algorithms](DSA_Notebooks\Graph_Kruskal_Algorithms.ipynb)
-   23. [Graph Prim's Algorithms](DSA_Notebooks\Graph_Prim's_Algorithms.ipynb)
+   22. [Graph Kruskal Algorithm](DSA_Notebooks\Graph_Kruskal_Algorithms.ipynb)
+   23. [Graph Prim's Algorithm](DSA_Notebooks\Graph_Prim's_Algorithms.ipynb)
 
 2. [DSA Questions](Question)
